@@ -1,0 +1,46 @@
+Richtext/RTE - Rich text editor  
+
+- What you see is a what you get 
+
+WYSIWYG Editor 
+
+Bold
+Paragraph
+H1 to H6 
+Table
+Superscript
+SubScript 
+
+
+https://htmltidy.net/
+
+
+https://ckeditor.com/docs/ckeditor5/latest/examples/builds-custom/full-featured-editor.html
+
+
+Todays Assingment
+Create this Page https://www.bt.com/about/bt/our-company/our-purpose-and-values
+
+HTML
+
+Table Tag 
+Anchor Tag
+Image Tag 
+SuperScript
+SubScript
+Bold
+Italic
+Underline
+Strike
+List with alphabet 
+list with numbers
+list with roman 
+unordered List 
+Paragraph 
+H1 to H6 
+What is Class
+What is Id 
+Block Elements
+Inline Elements 
+Semantic Elements 
+Html4 vs Html5 

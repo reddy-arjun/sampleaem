@@ -1,0 +1,57 @@
+Redirect 
+
+that status code starts with  
+
+301 - Permanent re-direct 
+
+302 - Temporary redirect 
+
+404 - Page Not Found 
+
+
+https://www.w3schools.com/tags/ref_language_codes.asp
+
+
+Sharing 
+
+og: - Pintrest/FB/Linked in
+
+twitter:  - Twitter 
+
+
+SEO Props 
+
+1) Title , Description, Keywords 
+2) Cannonical Url
+3) Google Console 
+4) Social Sharing 
+
+There should be only 1 H1 per page.
+There should title and alt text for the image.
+
+<img src="" alt="" title="">
+
+there should be title for the anchor link .
+
+<a href="" title="" target="_blank/_self">
+
+
+
+
+1) Go through SEO Props?
+2) Go through Social Sharing by enabling and verify the Page source.
+3) Vanity URL 
+4) Redirects 301/302 
+5) When does Page not found comes 404 
+
+
+HTML
+1) Image Tag 
+2) Anchor Tag 
+3) Meta tags in Header 
+
+
+
+
+
+

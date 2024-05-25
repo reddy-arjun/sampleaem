@@ -1,0 +1,31 @@
+Experience Fragments 
+
+Banner
+Header
+Footer 
+
+10 Pages 
+
+			Top 
+			Bottom
+			Center
+			 ----- Common Content - Banner with Same Content . 
+			 
+
+If we use XF , Then effort on doing repetitive tasks/ multiple places same content will get reduced. 
+
+
+1) XF are re-usable content, create once and re-use whereever you want. 
+2) Components can be added on to XF.
+3) Variations can be created .
+4) Need a XF Template to create a XF Page.
+5) Need XF Component to render on the Page.
+6) Created inside Content/experience-fragments.
+7) Nested XF are possible. 
+
+
+Assingment for today.
+
+1) About - Convert all the Components into XF's and by using Nested XF concept add to single XF and render on to the About Page.
+
+the-btea-rooms - Convert all the Components into XF's and by using Nested XF concept add to single XF and render on to the About Page.

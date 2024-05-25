@@ -1,0 +1,57 @@
+Pages 
+
+https://www.microsoft.com/
+
+en-in/
+microsoft-365
+/p
+/microsoft-365-personal
+/cfq7ttc0k5bf
+
+?activetab=pivot:overviewtab - Request Params/url Params 
+
+
+https://www.bt.com/
+
+about - Parent  Page - name 
+
+https://www.bt.com/
+
+about
+/bt
+/our-company/
+our-purpose-and-values
+
+
+
+Edit/ WcmeditMode  - Only in Edit mode you can edit the Page. 
+
+Preview/ WCM Preview Mode  - Within Edit mode you can see the page how it looks and we cannot edit a page in preview mode. 
+
+View as Published/ WCMDisabled Mode - This looks exactly same a Live after publishing but verifying how it looks within author instance before publishing any page. 
+
+
+
+Assingment 
+
+1) Create 10 Pages in We.retail/bt-plc with different Template.  Check Name, Title. 
+2) Verify Move/copy Option.
+3) Create a Page with existing Name.
+4) Edit vs Preview vs View as published. 
+5) Add image component atleast on 2 pages. 
+
+
+HTML 
+1) What is an Anchor id?(#) https://www.w3schools.com/html/html_id.asp
+2) What are url Params?
+3) What is img Tag 
+https://www.w3schools.com/html/html_images.asp
+4) What is Anchor Tag?
+https://www.w3schools.com/html/html_links.asp
+5) What are Order list/Unorder List 
+https://www.w3schools.com/html/html_lists.asp
+6) What is HTML Table?
+https://www.w3schools.com/html/html_tables.asp
+
+
+

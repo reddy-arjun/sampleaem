@@ -1,0 +1,71 @@
+Emulator/Layouting/Break Points
+
+A website can be accessed in Desktop, Mobile, Tablet .
+
+Desktop/Laptop - Fixed Orientation 
+
+Mobile - Landscape/Potrait
+
+
+Tablet - Landscape/Potrait
+
+
+Testing the content in Mobile/Tablet 
+
+1) Browser Emulator in built 
+2) Mobile Simulator chrome extension.
+3) Browser Stack its paid version and client will provide. 
+
+
+
+
+Product Service Grid 
+
+Desktop - 3 PSG - side by side 
+
+Mobile 
+
+Landscape - 2 PSG  - side by side and 1 PSD hide 
+Potrait - 1 under 1 PSG 
+
+Tablet - 
+Landscape - 3 PSG - side by side  
+Potrait - 3 PSG - side by side 
+
+
+
+How do you achieve Responsiveness?
+
+Whenever we open a website in Mobile/Tablet/Desktop then the website should not break. Then we will call it as Responsive Website. 
+
+How did you acheive Responsiveness?
+
+-- With the Help of Emulator. 
+
+Is there any other Way/ How does website supports responsive ness?
+
+-- We used Media Queries. 
+
+@Media screen (max-width:1800x)
+{
+.class
+{
+--- css goes here
+}
+
+}
+
+Assingment for Today
+Media Queries 
+
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+
+
+Create this Page for Desktop,Mobile,Tablet 
+
+https://www.bt.com/about/digital-impact-and-sustainability/championing-human-rights/fighting-modern-slavery#our-code
+
+
+
+
+

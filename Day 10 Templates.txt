@@ -1,0 +1,46 @@
+Templates 
+
+Templates define the structure of the webpage. Without Template we cannot create a Page. 
+
+2 Kinds of templates.
+
+
+Static Templates - These are created by Developer and can be used by content author/web manager/publisher. 
+
+Editable/Dynamic Templates - These can be created by Developer/author and can be used by content author/web manager/publisher.
+
+Tools --> General --> Templates
+
+
+
+1) What are Templates 
+2) Static vs Editable Template Differences .  
+
+
+1) Use We.retail and create a template on your own which is similar to content Page/Product Page.
+2) Create a 5 Page using the created Template.
+3) Verify the Policies.
+4)  Modify the Structure by adding a new component called image and author it.
+5) Verify the already created Pages.
+6) Unlock the above added image component.
+7) Verify the already created Pages.
+8) Create a new Page and verify Page.
+
+
+--- Revise all the topics until now
+
+HTML 
+
+-- Revise all the html topics covered until now 
+-- Block elements 
+-- Inline Elements
+-- Anchor Tag
+-- Image Tag
+ 
+
+
+
+
+
+
+

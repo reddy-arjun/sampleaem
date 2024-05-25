@@ -1,0 +1,16 @@
+Touch ui vs classic UI 
+
+Classic UI - Its legacy version and until 6.4 they give support but after that still it is supported Adobe does not provide support. 
+
+
+Touch UI - It is introduced from 6.1 , Currently most of the applications will use this Touch UI. 
+
+
+username : admin/admin 
+
+
+http://localhost:4502/crx/de/index.jsp 
+
+http://localhost:4502/crx/packmgr/index.jsp
+
+Blog URL: https://aemauthortutorial.blogspot.com/2021/07/touch-ui-vs-classic-ui.html

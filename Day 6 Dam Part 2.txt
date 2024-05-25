@@ -1,0 +1,18 @@
+
+Taxanomy 
+Move
+Copy
+Upload Asset with same name 
+
+			--> Name conflict 
+			--> Cancel, Keep Both, Replace, Create Version
+			
+			
+1) Create a Taxanomy of this Page 
+		https://www.bt.com/about/bt/our-company/our-purpose-and-values
+2) Download all the Assets from the Above Page.
+3) Upload Assets to the created Folder
+4) Verify the uploading the asset with same name .
+5) Create version, Replace, Keep both
+6) Verify Move and Copy Option 
+

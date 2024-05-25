@@ -1,0 +1,33 @@
+DAM - Digital Asset management
+
+images
+.png
+.jpeg
+.jpg
+.giff
+.svg
+.webp - In Latest versions this image is recommended. 
+pdfs
+word docs
+xls
+ppt
+.html
+
+Naming Specifications:
+
+1) No Spaces in the Asset Name.
+2) No Special Characters apart from - _ (man-painting.jpg)
+3) With out extension like .pdf, .jpg, .jpeg, etc we should not upload. 
+4) Try to avoid numbers/capitals letters.
+
+
+<img src="" alt="Image Missing" title="Man Painting">
+
+<img  src="/bt-plc/assets/images/three-block-hero/three-block-robotics.jpg" alt="Man wearing VR headset controlling a robot" title="Man wearing VR headset controlling a robot">
+
+
+Assingment Dam Part 1 
+
+1) Download 10 Assets from Google
+2) Upload 10 assets to DAM by creating a folders
+3) Learn HTML Img Tag https://www.w3schools.com/html/html_images.asp

@@ -1,0 +1,38 @@
+SEO 
+microsoft 
+
+title
+
+description
+
+keywords
+
+
+<header>
+<title>My title </title>
+<meta name="description" content="kjsdkjsa">
+<meta name="title" content="kjsdkjsa">
+<meta name="keywords" content="kjsdkjsa">
+</header>
+
+
+http://localhost:4502/content/we-retail/language-masters/en/experience/arctic-surfing-in-lofoten/one/two/three/four.html
+
+
+http://localhost:4502/4.html
+
+
+1) What is Seo Properties and its use?
+2) Create 5 Pages in we.retail and add SEO Properties and verify those SEO Prop by inspecting.
+3) What is Vanity URL?
+4) Add the Vanity url to the above created pages and verify it. 
+
+
+HTML
+
+1) Meta Tags
+2) What is the structure of HTML?
+3) html vs html5 
+4) what are html selectors , what is its use? 
+
+

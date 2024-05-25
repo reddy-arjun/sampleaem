@@ -1,0 +1,31 @@
+Content Fragments
+
+We cannot add Components.
+
+
+Content Fragment Model -- 
+
+We will have Specific fields According to Requirement.
+
+/content/dam 
+
+/Content/experience-fragments    /content/dam 
+Experience Fragment Component 		Content Fragment Component
+Components Can be added 			COmponents cannot be added
+XF Template 						CF Model 
+Nested XF is Possible 				Nested CF is not Possible.
+Header, Footer, Share Bar, 			Articles, Insights,FAQs
+Common Content cross the apages
+
+
+1) Create a Content Fragment Model called Book Authors
+	Name
+	Dob:
+	Books Authored: 
+	Education:
+	About:
+2) Create a CF 
+3) Render on to the Page 
+
+
+ 

@@ -1,0 +1,285 @@
+Testing 
+
+Washing Machine -- Without Testing -- Not Working.
+
+Washing Machine --  Testing -- Working.
+QC Signoff- Tested OK.
+
+Testing 
+
+- To improve the quality of the Product. 
+	- by Identifying the Bugs/defects.
+	
+	70% of washing Machines not working? 
+	
+	100 - 70 Not Working - Company Reputation.
+		- 30 Working
+
+Web Applications
+ADD Cart - 100$
+
+Cart -  150$
+
+Checkout 	- 200$ 	
+
+Testing -- 
+
+Manual Testing 
+
+Automation Testing - Automated Scripts. 
+
+Java with Selenium 
+Python with Selenium 
+Cypress 
+Tosca
+- Everyday they need to perform same kind of testing again and again in such cases.
+
+
+26-04-2024 Testing Part 2 Assingment
+
+https://www.bt.com/about/digital-impact-and-sustainability/championing-human-rights/digital-child-rights
+https://www.bt.com/about/investors/investment-overview
+
+Create The Pages
+
+
+Test Data Component , Product Service Grid
+
+
+
+Manual Testing
+
+We will be focusing On Web Applications with AEM . 
+
+
+Visual Testing 
+
+Visual Design Tools - Figma, Adobe XD, Zeplin, Sketch
+
+Functional Testing 
+
+Authoring Perpective 
+			Content Testing 
+				SEO Props and Meta Tags
+				Spelling Mistakes 
+				image checking 
+				
+
+Component/Template/
+
+Page Testing
+
+
+Heading bar 
+
+Login 
+
+username
+Password 
+
+
+SDLC
+
+Software Development Life Cycle.
+
+Product Owner 
+BA - Business Analyst- He will convert the business functionalities to technical funct in PMT. 
+Scrum Master -
+Developers with TL -
+QA with TL - 
+
+
+
+AGILE Methodology
+
+Sprints - 2weeks .- 360 hrs 
+
+Sprint 1 - 2weeks 4 dev , 2 qa 
+Jira -1 - 40 hrs 
+Target - Build Basic Code Base.
+ 
+
+Jira -2 - 40 hrs 
+Build Core Components  - Image, Text,
+
+Requirements can change at any point time. 
+Everyday scrum calls with Client - Scrum Master, BS, Product Owner, Developer, QA .
+Defect Triage Calls - 
+Before every Sprint - Planning Call. 
+After Every Sprint - Retrospective  call
+							1) What went Well.
+							2) What did not went well?
+							3) Blockers?
+							4) Any improvements?
+							5) Appreciations?
+
+Waterfall Model
+
+2 weeks 
+Planning - 5 components  - No change in requirements .
+
+Weekly call with Clients. 
+
+Less benifit to clients. 
+
+
+STLC 
+
+Software Testing Life Cycle 
+
+	Test case Development 
+	
+	XLS - Upload this to Jira. 
+	
+	Jira Comments 
+Before Starting of any Test case Development ?
+
+Requirements - Jira - 
+
+Pre- requests - With out these we cannot test .
+
+Test Suite = Test case 1 + test case 2 + test case 3 
+Test case 1
+
+		Below are the scenarions 
+Withdrawal
+
+			With Correct Card and PIN 
+			With Correct Card and PIN and with more amount than what we have in account.
+			With correct card and wrong pin 
+			With correct card and wrong pin for 3 times then card block. 
+			
+Test case 2 
+Change pin 
+
+Test case 3 
+Balance Enquiry 
+	
+	
+	Bug LifeCycle 
+	
+		QA -- Defect/Bug/Issue
+			Jira-123 -- Developer 
+			
+Assignment 
+
+1) Write Test Cases for Heading Bar, Data Component.
+2) Write test cases for Login, gmail, ATM.
+3) What is Bug Life cycle.
+4) What is STLC ?
+5) Bug vs Defect vs fault?
+6) Backlog vs Product Backlog vs Sprint Backlog.
+
+		
+
+Testing Terminologies 
+
+Smoke Testing (Verification Testing)
+
+Sprint 3 
+Carousel
+
+Heading bar 
+
+Product Service 
+
+			first  3 days -  Dev Testing - Unit testing - Initail Build (Code Deployment)
+			
+			Code Deployed to QA Env 
+						
+			QA needs to verify the Components on a High level, that he can proceed further with out blocker.			
+						Execute Test Cases 
+
+		Other 5 components 
+		
+ -- We will execute the Test Cases. 
+			identified the Bugs - 
+					Raise a bug in jira and assign to Developer 
+					
+						Description .
+						
+						Test Steps 
+									Excepted Result:
+									Actual result : 
+									also attach the screen shots. 
+									
+	Test Cases - Test Scenarios 5 , 
+	
+			TL Validated the Test cases he is saying. 20 Test Cases. 
+				
+				Requirement Tracebility Matrix , Check list of Story. 
+				
+				TL RTM = Test cases Written .
+
+Regression Testing 
+
+To identify whether the current Sprint/current functionalities are affecting the Previous sprints. We will Perform Regression Testing. 
+
+Sprint 1 + Sprint 2 test cases = Regression Testing. 
+
+Bug raised - Regression Testing 
+
+
+UAT/Stage/Pre-Prod/pre-Live Code movement. 				
+
+Sanity Testing (Validation Testing )
+
+Validating the main Functionalities before Moving to UAT. 
+
+After Moving the code to UAT, you will validate the changes. 
+
+Integration Testing 
+
+3 modules 
+
+	all are dependent on each other 
+	
+	Add to Cart 
+	
+	Cart 
+	
+	Checkout 
+	
+	-- Integration Testing 
+	
+	Testing the multiple modules which are dependent on each other we call it as a Integration Testing. 
+	
+
+System Testing - This will be Performed after the full develpment of the Project.
+
+- Performance  - Performance Testing Team (Jmeter, Load Runner)
++ Security  - Security Testing - Pen Testing 
++ END to END Testing -- Testers + Automation Testing . 
+
+			
+Black Box Testing 
+
+- Without knowing any functionality/code/anything 
+
+
+White Box Testing 
+
+- With knowing any functionality/code 
+
+Grey Box testing = White + Black 
+
+- May be after 1 year into the Project . 
+
+
+Priority vs Severity 
+
+https://www.guru99.com/defect-severity-in-software-testing.html
+
+Priority - What is the time given to fix the issue. What is the urgency of fixing the issue.
+
+P1 / Highest 
+P2 / High 
+P3 / Medium
+P4 / Low 
+ 
+Severity - Amount of Revenue of Loss to the Project. 
+
+Critical
+High
+Low 
+

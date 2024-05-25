@@ -1,0 +1,26 @@
+Meta Data 
+
+Data about Data 
+
+Image is a Data - Further more Information
+
+
+<img src="" alt="" title=""></img>
+
+
+1) Write Image Tag in HTML 
+2) Add Metadata to the any image and verify the image by adding image component on the page and add the image where you have added metadata and verify alt title, src.
+3) Verify Edit Option
+4) Verify version option
+
+HTML 
+
+https://www.w3schools.com/html/default.asp
+
+https://www.w3schools.com/html/html_intro.asp
+
+https://www.w3schools.com/html/html_editors.asp
+
+https://www.w3schools.com/html/html_basic.asp
+
+https://aemauthortutorial.blogspot.com/2021/07/dam.html

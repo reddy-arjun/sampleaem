@@ -1,0 +1,27 @@
+<head>
+<title> Anchor Link Demo</title>
+<meta name="description" content="Simple Description"/>
+</head>
+<h1> CTA/Button/Link Button </h1>
+<a href="https://www.google.com" title="Navigate to Google" target="_blank">Click here to go to Google Website</a>
+
+
+2 kinds of links 
+
+Internal Link - Same Tab 
+				/content - 
+				current domain
+
+External Link - New Tab 
+
+				Which does not starts with current domain
+				
+				
+				
+Composite Component - Adding 1 more component inside a component. 
+
+Component - Its a stand alone component .
+
+Assingment
+Create below Page 
+https://www.bt.com/about/investors/individual-shareholders 

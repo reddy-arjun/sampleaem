@@ -1,0 +1,78 @@
+Parsys vs Iparsys
+
+Iparsys - Inherited Paragraph System 
+
+If any content is added within the Iparsys then the content will be inherited to all child pages.
+
+
+News/home 
+
+		International
+		
+						Politics
+						Movies
+						Sports
+		
+		National
+		
+						Politics
+						Movies
+						Sports
+		
+		Regional 
+						Politics
+						Movies
+						Sports
+		
+		
+
+Parent Page 
+				Child Pages 
+				
+				
+Parsys/Layout Container/Responsive Grid 
+
+If we add any content in the Parsys then the content will be only restricted to the Current Page. 
+
+
+Cancel Inheritance 
+
+			- The inheritance will be cancelled to all child pages but not the current Page.
+
+Disable Inheritance 
+
+The inheritance will be cancelled to all child pages along with the current Page.
+				
+				
+Create the below structure under en Page in bt-plc by using Generic Content Page Template.
+
+1) News/home 
+
+		International
+		
+						Politics
+						Movies
+						Sports
+		
+		National
+		
+						Politics
+						Movies
+						Sports
+		
+		Regional 
+						Politics
+						Movies
+						Sports
+2) Add Nav to Iparsys to Parent 
+3) Add image Component to Parsys parent Page 
+4) Verify the Child Pages .
+5) For Movies , Sports, Politics and their child pages chnage the respective logo.
+
+
+
+https://www.w3schools.com/html/html_elements.asp
+https://www.w3schools.com/html/html_attributes.asp
+https://www.w3schools.com/html/html_headings.asp
+https://www.w3schools.com/html/html_paragraphs.asp
+	

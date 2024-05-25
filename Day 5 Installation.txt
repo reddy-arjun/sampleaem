@@ -1,0 +1,62 @@
+AEM built on JAVA 
+
+Procedure
+1) Install Java (jdk-8u281-windows-x64.exe)
+
+to identify java version 
+	open command prompt "java -version"
+	
+	java not found - you are good to install JAVA 
+	17,19 - You need to uninstall 
+2) Start AEM 
+	create a folder with a name author 
+	
+	copy cq-quickstart-6.5.0.jar and license.properties 
+	
+	double click on cq-quickstart-6.5.0.jar - 6.5.0
+			wait 5 to 15 mts 
+3) Install Service Package(aem-service-pkg-6.5.5.zip 
+) 
+	 Tools --> Deployment --> Packages 
+	
+	Upload Package - Select aem-service-pkg-6.5.5.zip  from Local and click on Upload 
+	
+	Click on Install Button - 5 to 10 mts 
+	The server restarts
+Below	Errors May Occur   
+	Hmmm… can't reach this page
+	HTTP ERROR 404 Not Found
+	Startup in progress
+	
+4) Install bt-plc-all-1.1.89.zip 
+ 
+	Tools --> Deployment --> Packages 
+	
+	Upload Package - Select bt-plc-all-1.1.89.zip  from Local and click on Upload 
+	
+	Click on Install Button - 1 to 5mts
+5) Install Content-Sample-Site.zip 
+Tools --> Deployment --> Packages 
+	
+	Upload Package - Select Content-Sample-Site.zip  from Local and click on Upload 
+	
+	Click on Install Button - 5 to 15mts
+6) Install Extra-Changes.zip 
+Tools --> Deployment --> Packages 
+	
+	Upload Package - Select Extra-Changes.zip  from Local and click on Upload 
+	
+	Click on Install Button - 1 to 2mts
+7) Validation of Installation 
+
+Navigate to http://localhost:4502/aem/start.html 
+Click on Sites --> bt-plc --> Root Page --> Select about  -->
+Click on edit --> It will open in New page with Pink header and footer.
+
+or
+Directly Navigate to the below url --> It should display pink header and footer. 
+http://localhost:4502/editor.html/content/bt-plc/en/about.html
+
+==== AEM Installation is Successful.
+
+

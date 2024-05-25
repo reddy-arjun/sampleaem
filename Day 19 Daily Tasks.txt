@@ -1,0 +1,118 @@
+Author , Publisher, Dispatcher.
+
+Templates
+
+Pages
+
+Components 
+
+Assets
+
+
+How does your day look like?
+
+Sapient 
+
+		Waters 
+		
+		PROD - Author 
+				Publisher
+				Dispatcher 
+				CDN 
+				
+Team Mates/Clients
+
+Author- aem-waters-prod.author.com 
+
+
+Ticketing Tools - Jira/Workfront/Servicenow
+
+- Project Managment Tools. - Raise ticket/ status/ Prioritize. 
+
+TL/Manager - 100 tickets
+
+Client 
+
+			- Have to raise a ticket 
+			
+			- New Page / Update page / Unpublish 
+			
+Jira-123 
+- to the employee 
+
+Creation of Page /
+
+1) Assets 
+2) Content - Links, Text, SEO - Word/ Confluence/PDF 
+3) Visual Design - Figma/ Adobe Creative Design/ Sketch
+
+
+New Page - Open
+
+1) Verify the Requirements - If any issue , we will add comment in jira or we will ask client in the dialy stand up call. -   
+2) Requirement are Proper - In Progress
+	Upload all Assets to DAM
+	Start creating a Page - Done. 
+3) Self QA 
+		Checklist 
+			1) Content Alingment in line with Design. 
+			2) Verify all the links on the Page. 
+			3) Image alignment
+			4) Seo Properties via View Source/Inspect and check in head Tag
+			5) Functionality of the Components. 
+			6) Responsiveness and functionality of the web page by using Browser Stack for andriod/ios devices.
+			7) Verify the Website in Multiple Browsers. 
+4) QA Team - In QA 
+			They will again do testing 
+5) Preview URl , Will provide to client. Client verifies - Awaiting for Approval 
+6) Publish the Page.  - In Live - Completed/Closed 
+
+
+Updating/Editing Page 
+
+1) Compare the Live Page with Author Page. 
+	No Changes 
+				- Create a Version 
+	Changes are there?
+				- Next Week -Changes - New Version - Revert to older Version . 
+				- our Changes - By Tomorrow 
+2) Update the Changes 
+3) Self QA 
+4) Send QA 
+5) Preview URl 
+6) Publish the Page 
+
+Todays Assingment
+
+1) Updating the existing Page 
+https://www.bt.com/about/investors/financial-reporting-and-news
+
+https://www.bt.com/about/digital-impact-and-sustainability/championing-human-rights/privacy-and-free-expression
+
+2) Creating a New Pages for all view Ports
+https://www.bt.com/about/digital-impact-and-sustainability/building-better-digital-lives/the-btea-rooms
+
+
+https://www.bt.com/about/digital-impact-and-sustainability/building-better-digital-lives/senior-skills
+
+
+Look into Figma/Adobe XD 
+Look into Jira/Workfront/Servicenow
+
+
+HTMl 
+Revise all the HTML from Starting from w3schools
+Look into the Iframe html 
+Iframe 
+
+<iframe width="1528" height="742" src="https://www.youtube.com/embed/Fy6UDrEextA" title="This is Our Story ¦ Superfast Cornwall" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+			
+	
+
+
+
+			
+			
+				
+				

@@ -1,0 +1,30 @@
+Complex components in our Project
+
+Composite Components 
+
+Section Container
+
+Three Block Hero
+Horzintal Scroll Container
+
+Hero Banner Large and Medium 
+Hero Banner Large and Medium V2 
+ 
+
+Tabs
+Accordion
+
+Assingment 
+
+Complete the below the page in local
+https://www.bt.com/about
+
+
+
+
+Style Systems
+
+HTML Selectors 
+	class - Styles 
+	id 
+

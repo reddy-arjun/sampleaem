@@ -1,0 +1,40 @@
+AEM 
+
+Author - Its an AEM Instance/software 
+
+1) Creating/editing Page.
+2) Adding an images/pdfs/documents
+
+Publisher - Its an AEM Instance/software 
+
+ 
+
+Dispatcher - Its a apache web server - Which handles requests/response 
+
+which is used for 
+
+caching/store Mechanism purpose 
+
+/content
+   bt-plc
+   en
+   about.html - Static Html 
+
+url rewriting rules 
+domain/ content/bt-plc/en/about.html - Absolute Path 
+domain/  about  - relative Path 
+
+
+Load Balancing 
+
+CDN - Content delivery Network 
+
+
+
+
+1) What is Author?
+2) What is Publisher?
+3) Which version of AEM you are using?
+4) What is dispatcher?
+5) What is CDN?
+6) Author vs publisher vs Dispacther?

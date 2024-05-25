@@ -1,0 +1,40 @@
+What is CMS?
+What is AEM?
+Did you work on Any CMS Tool?
+Difference between AEM and other CMS Tools?
+Author vs publisher vs Dispatcher?
+Which Version of AEM are you using?  - 6.5 -   6.5.10
+Difference between 6.3,6.4,6.5?
+Difference between Classic UI and Touch UI?
+what is crx/de?
+what is packgmgr?
+What is sightly?
+What will happen if Image Name contains spaces, you will be able to see it after authoring on page?
+What do we call the information/properties about images/Assest? 
+Name few Meta data Properties of an Asset?
+How do you create /upload the images/Assests/PDFs/Doc/xls to AEM?
+I want to upload 100s of images to DAM then how can i do? With the help of Bulk Uploader/ Web DAV. 
+Where does the Assest show in Pages?
+Where does the images are stored in aem? /conten/dam/project-name
+What is the use of adding images/assets to dam?
+How do you change the properties of an image?
+What is the use of Image versioning?
+Lets assume i have an image which is used in 100 pages, now i want to change the image in 100 pages?
+Are you uploading any Videos to DAM? No
+What kind of videos are you using in your website? We are not using any videos from DAM, we are using vimeo, Youtube, Brightcove 3rd Party videos.
+Difference between Parsys vs Iparsys?
+How do you cancel the Inheritance of the Page?
+If you want to change the different Footer for few pages what do you do, assuming footer is iparsys.
+
+
+
+HTML 
+
+https://www.w3schools.com/html/html_styles.asp
+
+https://www.w3schools.com/html/html_formatting.asp
+https://www.w3schools.com/html/html_quotation_elements.asp
+
+Image Tag in HTML 
+
+Anchor Tag in HTML 
