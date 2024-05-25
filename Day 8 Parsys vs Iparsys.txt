@@ -1,11 +1,15 @@
 Parsys vs Iparsys
-
+(((
 Iparsys - Inherited Paragraph System 
 
 If any content is added within the Iparsys then the content will be inherited to all child pages.
 
 
-News/home 
+News/home (PoliticsMovies)---
+						Sports
+						Movies
+						Sports
+		
 
 		International
 		
